@@ -1,5 +1,7 @@
 # core-values-encoder-crx
 
+原仓库 https://github.com/sym233/core-values-encoder
+
 ## 安装
 
 1. git clone https://github.com/yatyricky/core-values-encoder-crx.git 或者 [下载](https://github.com/yatyricky/core-values-encoder-crx/archive/master.zip)，解压
