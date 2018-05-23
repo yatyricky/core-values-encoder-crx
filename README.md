@@ -4,6 +4,8 @@
 
 ## 安装
 
+视频教程 https://www.bilibili.com/video/av23822777/
+
 1. git clone https://github.com/yatyricky/core-values-encoder-crx.git 或者 [下载](https://github.com/yatyricky/core-values-encoder-crx/archive/master.zip)，解压
 2. 打开Chrome，在地址栏输入并打开chrome://extensions/
 3. 开启右上角的“开发者模式”
