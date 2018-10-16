@@ -1,18 +1,29 @@
 # core-values-encoder-crx
 
-原仓库 https://github.com/sym233/core-values-encoder
+> 🕶️ Let's study core values together!
+> based on [core-values-encoder](https://github.com/sym233/core-values-encoder)
 
-## 安装
+## What is it
 
-视频教程 https://www.bilibili.com/video/av23822777/
+a chrome extension to encode words to core values / decode core values to original word
 
-1. git clone https://github.com/yatyricky/core-values-encoder-crx.git 或者 [下载](https://github.com/yatyricky/core-values-encoder-crx/archive/master.zip)，解压
-2. 打开Chrome，在地址栏输入并打开chrome://extensions/
-3. 开启右上角的“开发者模式”
-4. 将工程目录（解压后的目录）拖入浏览器内
-5. 开始学习社会主义核心价值观吧
+~~to avoid being blocked~~
 
-## 使用
+## How to install
+
+**Chrome store**
+
+[Click here to install](https://chrome.google.com/webstore/detail/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E7%BC%96%E7%A0%81%E5%99%A8/egjhgogmjjdjkapjljgmnghigdbaofmi)
+
+## Contribute
+
+1. ```git clone https://github.com/yatyricky/core-values-encoder-crx.git```
+2. Open Chrome，and open ```chrome://extensions/```
+3. Open develop mode
+4. Drag the directory into chrome
+5. Let's study core values together!
+
+## How to use?
 
 1. 在网页中选择文字
 2. 点击插件按钮
