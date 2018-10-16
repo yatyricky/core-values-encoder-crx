@@ -6,11 +6,13 @@
 ## What is it
 
 a chrome extension to encode words to core values / decode core values to original word
+
 ~~to avoid being blocked~~
 
 ## How to install
 
 **Chrome store**
+
 [Click here to install](https://chrome.google.com/webstore/detail/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E7%BC%96%E7%A0%81%E5%99%A8/egjhgogmjjdjkapjljgmnghigdbaofmi)
 
 ## Contribute
